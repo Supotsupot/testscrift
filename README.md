@@ -16,7 +16,7 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-wget https://raw.githubusercontent.com/Supotsupot/elyvpn_scrift.sh/main/elyscrift.sh
+wget https://raw.githubusercontent.com/Supotsupot/testscrift/main/taxscrift.sh
 ```
 // Edit script configuration 
 ```
